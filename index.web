@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>benjamin harroch is web site</title>
+  </head>
+
+  <body>
+    <img src="image.facebook.jpg"
+     alt="my profile facebook picture"
+     height="150" width="150">
+
+    <center>
+    <h1> my personal web site</h1>
+<br>
+   <p>my name is benjamin harroch. i  am so excited to exhibit  my  <b> new </b>
+      website. </p>
+<hr color=black>
+    </center>
+
+<h2>my experience</h2>
+<p> i was at the israel army,a worior in golani and in my service i
+learn to be a nurse.</p>
+
+
+<h2>my hobbies</h2>
+<ol>
+  <li>first: i love to cooke.</li>
+  <li>second: i love hung out whit my <a href="https://www.facebook.com/bhhaarroch">girlfriend</a>.</li>
+</ol>
+
+<p>for contact me press this <a href="for contact">button</a></p>
+
+<hr>
+
+<table cellspacing="20" >
+  <thead>
+    <tr>
+      <th>my skill</th>
+      <th>my rate 1-5</th>
+    </tr>
+    <tbody>
+      <tr>
+        <td>speak whit people</td>
+        <td>  ✨✨✨✨✨</td>
+      </tr>
+      <td>responsabilty</td>
+      <td>✨✨✨✨✨</td>
+      <tr>
+        <td>self learning</td>
+        <td>✨✨✨✨✨</td>
+      </tr>
+
+  </body>
+</html>
